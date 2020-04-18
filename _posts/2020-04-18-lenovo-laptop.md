@@ -1,0 +1,79 @@
+---
+layout: post
+current: post
+cover: assets/images/lenovolaptop/lenovo-laptop.jpg
+navigation: True
+title: Henry's Laptop
+date: 2020-04-18 13:18:00
+tags: our-tech review
+class: post-template
+subclass: 'post tag-speeches'
+author: henry
+---
+
+# Review
+
+This was my first laptop. I got it for my 14th birthday after getting a load of money. I got it from Curry's PC world for £550, £50 off because of a deal involving Ryzen based computers. 
+
+Before that I had been scouring the internet for countless hours to find my perfect laptop. I had a little over £500 to spend, a good amount for a longlasting, reliable laptop. At first I tried my luck at an incredible deal - an Acer Nitro laptop (I forgot the exact one) for around £200 under usual price, bringing it to £500. It was from a 3rd party vendor and we were half expecting something to be dodgy about it...  And that was exactly what we got. A painful week after ordering, I got an email from Amazon saying the seller no longer "had" the laptop and it was not coming. A full refund was given.
+
+After that whole thing, we decided to get a laptop from a respectable seller. My Dad and I found the Lenovo IdeaPad series and thought it looked good. Initially we were going for the 15" 530S and sent an order to pick it up in the shop. However, just after we sent the order, to my dismay and Dad's annoyance, I noticed that the 15" had a miserable battery life of 3 hours. The 14" model however had a considerably better 6 hours of power. So, when we got to the shop I asked if there was any chance we could have it swapped for the 14 inch model. Luckily, they had a single model stocked in the shop and they let us swap it out. It was £50 more however, money that I didn't have at the time. I told my Dad I would  pay it back to him later.
+
+I walked out of PC world holding my laptop and protecting it with my life. This was the most expensive thing I had ever bought, by **a lot**.
+
+# Teething problems
+
+I was super happy with my Lenovo IdeaPad 530S 14" and loved how thin it was. I didn't even realise when looking online! Thickness wasn't really a priority for me but I was surprised with how much I liked it, especially as it competed with the thickness of [Gabriel's MacBook Air](macbook-air.html). However, there were some very bad early problems with the laptop. On one of the first time I was using it, as I watched a YouTube video, I got a dreaded blue screen of death. The error code was: VIDEO SCHEDULER INTERNAL ERROR. It seemed to be something to do with the graphics drivers - happening almost exclusively when watching videos. I tried updating the drivers and my dad got in conversation with Microsoft. Our efforts to fix the problem were fruitless, and, we were on the brink of sending it back to Curry's saying it was faulty. This was about the time were the problems started to mysteriously fade away. At the time of writing, I hadn't experienced a critical error for many months.
+
+A second annoying problem that was more infuriating than the last was the complete stoppage of all sound coming out off the speakers. This was an very annoying issue that I spent ages trying to fix. Again there seemed to be an issue with the Realtek drivers after there was an update. My Dad and I had no idea how to fix this and everything we tried did nothing. Unfortunately we had to resort to the ultimate failsafe to fix the problem, a full Windows restart. ):
+
+Thankfully I have a tech savvy house to fix these issues however a regular person would probably have to send it back if they experienced these problems. Of course, these problems won't effect every one of these laptops and it's just a one off.
+
+# Overall Experience 
+
+## Build
+This a brilliant laptop from Lenovo. The build quality is utterly amazing for the price with a fully aluminium body apart from some plastic bordering the screen. The hinge is sturdy and goes back to a 180 degree angle. Bezels are on the minimum, around a centimetre with a thicker chin on the bottom for some Lenovo branding. Like I said, this laptop is super thin, under 1.65cm when closed. That's just 1mm thicker than the latest MacBook Air (at its thickest point). 
+
+## Speakers
+The speakers are not special, two on the bottom at the sides. They can get a bit muffled if covered by some kind of fabric, not good if you're using it to watch Netflix on your bed.
+
+## Trackpad 
+The trackpad is great on this laptop. Really easy to use, nice size and feel, made of glass. It handles gestures very well, running its Windows Precision drivers.
+
+## Keyboard
+The keyboard might be an issue for some. It is mushy with very low clickyness with each keystroke. It could definitely be improved. The layout is fine but I wish the # key was not put so close to the enter key as it sometimes leads to me accidentally pressing it. Also I think they could of made the up and down arrow keys bigger and gotten rid of some of the size off the right shift, I literally never use right shift anyway. Don't forget that this keyboard also comes with two levels of brightness for its back lighting, just click Fn+Space to cycle between them. There are also some shortcut keys incorporated into the function keys, these include brightness, sound and aeroplane mode.
+
+## Display
+
+The display has its pros and cons. Pros are that it's a nice full HD display. Also an absolute win for this laptop is that the display is IPS. This makes the colours look soooo much better than a TN panel and is an absolute must for any laptop. Of course the display runs at 60Hz and don't expect to be getting professional gamer grade response times from it either. One problem I find with the display is it doesn't go very bright. This has been a problem for me when I have wanted do do coding outside or near a window.
+
+## IO 
+
+Thankfully this laptop has a healthy selection of good IO. On the left side there is the power adaptor, full size HDMI, a USB A port, USB C port (not Thunderbolt 3) and finally a headphone jack. As for the right side, there is another USB type A and a full size SD card reader.
+
+## Battery
+
+Know how I said I swapped the laptop out for this one to get better battery life? Well, this laptop has about the same as it said the other model had, which is, not a lot. You can not get much life out of this laptop at all and it will only last you about 3 - 4 hours use. ):
+
+## Fans
+
+There is a single fan on the left side of the device sucking air in from the bottom. It gets moderately loud under heavy load and should be is easily bearable for short amounts of time.
+
+# On the inside
+
+The specs are great on this device. I got it with a Ryzen 2500U with Vega 8 Mobile graphics. Paired with that, 8 GB of 2400mHz RAM and a snappy 256 GB M.2 SSD. These components overall lead a very fast computer for normal use. It breezes through multi-tasking easily with its 8-threaded CPU. 
+
+Also, thanks to the Vega 8 graphics, you will be able to do some casual gaming, running League of Legends at nice frame rates and can run Fortnite if you crank down the settings.
+
+Finally don't expect to be doing any super intensive stuff like editing large videos or rendering on this laptop.
+
+![It's thin](assets/images/lenovolaptop/hinge.jpg#full)
+
+# Summary
+
+Overall this laptop has served me very well and has not shown signs of slowing. It aces everything a casual user might need and has the speed to match. I think this Laptop would be perfect for anyone who needs a general purpose portable computer - without breaking the bank.
+The problems I had with it at first were annoying, but I could have always gone and swapped it for another one that didn't have the faults.
+
+8 / 10
+
+

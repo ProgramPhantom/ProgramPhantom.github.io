@@ -1,0 +1,92 @@
+---
+layout: post
+current: post
+cover: assets/images/macbook_air/macbook4.jpg
+navigation: True
+title: Gabriel's Macbook Air
+date: 2020-04-18 12:18:00
+tags: our-tech review
+class: post-template
+subclass: 'post tag-speeches'
+author: gabriel
+---
+
+
+# Why mac?
+
+
+For people who know more about computers and hardware than the average person, Apple products are usually not a popular choice. They are seen as expensive and low value. So why did I choose to get a MacBook air? Ecosystem: At the time I had an iphone and used my iPad on a daily basis and having a MacBook would connect all these devices and make everything much easier. Both my parents also had MacBooks so it be easier there as well. MacOS: I personally find MacOS much more appealing than windows and felt that the extra money spent would be towards getting it. When you buy a Mac you do pay extra but you pay that money so that apple doesn't have to put ads and other ways of making money in the OS. I also had quite a bad experience with Windows 7 that made we lean towards MacOS. Quality guarantee: Since both my parents had MacBooks I knew exactly what I was getting. No need to go through endless reviews on the laptop. You save yourself a lot of time! All of these things led me to buying a MacBook. Now I have an Android phone, which you can see here, and I rarely use my iPad anymore. I'm also completely fine with windows 10 (and 7 for that matter) but I still do prefer MacOS. If I were to buy a laptop now I would probably go with a windows one as it would save me some money. If Linux was more widely used and supported, and I could save some money on my laptop, I would use that!
+
+![The Mac](assets/images/macbook_air/macbook6.jpg#full)
+
+
+# Review
+
+
+## Build
+
+
+As expected from a MacBook the build is very sturdy but at the same time very light. It feels very sturdy despite it's sleekness and is easy to hold. It is an older model so the bezels are quite big and don't look to good, especially when compared to more modern laptops. The hinge is very smooth so the laptop can be opened with one finger. The classic apple design is very aesthetically pleasing to look at and looks good in most setups.
+
+
+## Speakers
+
+
+The speakers are okay, nothing fantastic but will do for most basic uses. They are located along the left and right side of the keyboard so don't worry about them being blocked easily.
+
+
+## Trackpad
+
+
+Again as expected from a MacBook, the trackpad is excellent! It is very responsive and the gestures save you a lot of time when using the laptop. It's very nice not needing to plug in a mouse because the trackpad is barely usable.
+
+
+## Keyboard
+
+
+The keyboard is very responsive, and since it is an older model they are not butterfly keys which I am personally not a big fan of. The backlighting fits with Macs design and is enough to help you see the keys in the dark but not blind you. Some of the keys can be quite small and close and make it harder when trying to touch type.
+
+
+## Display
+
+
+The resolution is not full HD being 1440x900. This is obviously a bit disappointing as you would always hope to get at least 1080p. It's still nice and clear however and for everything the average user does it is great. It has a TN panel, meaning it has not got the best viewing angles but it's still pretty good. The display is 13 inches which I find is a good size for everything I want to do. It is 60hz and it gets quite bright but can be difficult in strong sunlight.
+
+
+## IO
+
+
+Being and older laptop it does not have the most up to date IO. It has 2 USB 3.0 ports (one on each side) which is enough especially since the trackpad is good so a mouse is not needed. It unfortunately has no USB type C ports. It also has a thunderbolt 2 port if you want to connect a monitor to it. It has a MagSafe 2 power port, which is a very nice quality of life feature. Finally it has a SDXC card slot which can also be useful.
+
+
+## Battery
+
+
+The battery life on this laptop is really where is shines. It has a 54 watt battery which isn't the biggest battery in the word. However since the display isn't the newest the display does not drain the battery meaning that it has a battery life of around 6-8 hours which is pretty incredible. This is perfect for people who travel or commute a lot and need to get things done.
+
+
+## Fans
+
+
+The fans are located at the back near the hinge and do a decent job cooling your computer when doing simple tasks. When you do some more intensive stuff however, that's when things get loud. The noise is beatable for a bit but they really are loud and can be annoying as anything slightly intensive gets them going full wack.
+
+
+## Storage
+
+
+It has 128GB of PCIe-based SSD. It's not a very impressive amount of storage considering it's a laptop but it can do for some people. It's pretty fast since it's an SSD which is always nice. If you want more then you'll have to select the 256GB model when purchasing. 
+
+# Main components
+
+
+My model has a dual Core i5 5350U 1.8GHz that can turbo boost up to 2.9GHz. It's pretty decent and runs all your basic tasks smoothly. It has 8GB of 1600MHz LPDDR3 which is enough but don't expect to do intensive full HD editing. It has Intel HD graphics 6000 which is fine and can do some casual gaming such as League of Legends and Minecraft. You won't be running any shadow of the tomb raider here! 
+
+![Pic of Mac](assets/images/macbook_air/macbook7.jpg)
+
+# Summary
+
+
+Overall the model is pretty good. However it's pretty old so you aren't getting a lot of the newer tech and it's still pretty expensive. I would recommend this laptop to anyone who is looking for a Mac but maybe not if they were just looking for a laptop. 
+
+
+6.5/10

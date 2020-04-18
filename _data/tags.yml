@@ -14,3 +14,15 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+announcement:
+  name: announcement
+  description: Infomation about Tech Oasis
+  cover: False
+our-tech:
+  name: our-tech
+  description: The tech we own
+  cover: False
+review:
+  name: review
+  description: Our tech reviews
+  cover: False
