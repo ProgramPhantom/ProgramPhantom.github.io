@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/author/henry/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-04-18T19:49:39+01:00</updated>
-  <id>http://localhost:4000/author/henry/feed.xml</id>
+  <link href="http://localhost:4000/peen/author/henry/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/peen/" rel="alternate" type="text/html" />
+  <updated>2020-04-18T19:55:43+01:00</updated>
+  <id>http://localhost:4000/peen/author/henry/feed.xml</id>
 
   
   
@@ -47,11 +47,11 @@
   
     <entry>
       <title type="html">First post</title>
-      <link href="http://localhost:4000/test" rel="alternate" type="text/html" title="First post" />
+      <link href="http://localhost:4000/peen/test" rel="alternate" type="text/html" title="First post" />
       <published>2020-04-18T11:18:00+01:00</published>
       <updated>2020-04-18T11:18:00+01:00</updated>
-      <id>http://localhost:4000/test</id>
-      <content type="html" xml:base="http://localhost:4000/test">&lt;p&gt;Hello world!&lt;/p&gt;</content>
+      <id>http://localhost:4000/peen/test</id>
+      <content type="html" xml:base="http://localhost:4000/peen/test">&lt;p&gt;Hello world!&lt;/p&gt;</content>
 
       
       
