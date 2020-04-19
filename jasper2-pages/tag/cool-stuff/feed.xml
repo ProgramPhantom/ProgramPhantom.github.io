@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/cool-stuff/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-04-19T15:41:45+01:00</updated>
-  <id>http://localhost:4000/tag/cool-stuff/feed.xml</id>
+  <link href="/tag/cool-stuff/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-04-19T16:02:00+01:00</updated>
+  <id>/tag/cool-stuff/feed.xml</id>
 
   
   
@@ -37,11 +37,11 @@
   
     <entry>
       <title type="html">The old Tech Oasis website</title>
-      <link href="http://localhost:4000/our-website" rel="alternate" type="text/html" title="The old Tech Oasis website" />
+      <link href="/our-website" rel="alternate" type="text/html" title="The old Tech Oasis website" />
       <published>2020-04-19T13:18:00+01:00</published>
       <updated>2020-04-19T13:18:00+01:00</updated>
-      <id>http://localhost:4000/our-website</id>
-      <content type="html" xml:base="http://localhost:4000/our-website">&lt;h1 id=&quot;starting-the-site&quot;&gt;Starting the site&lt;/h1&gt;
+      <id>/our-website</id>
+      <content type="html" xml:base="/our-website">&lt;h1 id=&quot;starting-the-site&quot;&gt;Starting the site&lt;/h1&gt;
 
 &lt;p&gt;I have had some prior knowledge before making this about very basic HTML and CSS that I did in school. However most of this had been forgotten and I pretty much made it up as I went along. The new website is more like the second generation of a website that I started making about this time last year. It started as the website below and I completely changed it.&lt;/p&gt;
 
@@ -114,11 +114,11 @@ At first, I went for the “hacker” theme because I thought it was cool. In th
   
     <entry>
       <title type="html">The Tech Oasis Server</title>
-      <link href="http://localhost:4000/the-free-server" rel="alternate" type="text/html" title="The Tech Oasis Server" />
+      <link href="/the-free-server" rel="alternate" type="text/html" title="The Tech Oasis Server" />
       <published>2020-04-19T12:18:00+01:00</published>
       <updated>2020-04-19T12:18:00+01:00</updated>
-      <id>http://localhost:4000/the-free-server</id>
-      <content type="html" xml:base="http://localhost:4000/the-free-server">&lt;h2 id=&quot;origins&quot;&gt;Origins&lt;/h2&gt;
+      <id>/the-free-server</id>
+      <content type="html" xml:base="/the-free-server">&lt;h2 id=&quot;origins&quot;&gt;Origins&lt;/h2&gt;
 
 &lt;p&gt;We had always played with the idea of having some sort of shared computer that we could do simple things with, such as hosting a website or a Minecraft server. We also wanted to build a PC together as we hadn’t done that before. However, we didn’t want to spend a whole bunch of money on a PC that didn’t even need to be of the highest specs.&lt;/p&gt;
 

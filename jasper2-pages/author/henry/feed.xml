@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/author/henry/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-04-19T15:41:45+01:00</updated>
-  <id>http://localhost:4000/author/henry/feed.xml</id>
+  <link href="/author/henry/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-04-19T16:02:00+01:00</updated>
+  <id>/author/henry/feed.xml</id>
 
   
   
@@ -37,11 +37,11 @@
   
     <entry>
       <title type="html">The old Tech Oasis website</title>
-      <link href="http://localhost:4000/our-website" rel="alternate" type="text/html" title="The old Tech Oasis website" />
+      <link href="/our-website" rel="alternate" type="text/html" title="The old Tech Oasis website" />
       <published>2020-04-19T13:18:00+01:00</published>
       <updated>2020-04-19T13:18:00+01:00</updated>
-      <id>http://localhost:4000/our-website</id>
-      <content type="html" xml:base="http://localhost:4000/our-website">&lt;h1 id=&quot;starting-the-site&quot;&gt;Starting the site&lt;/h1&gt;
+      <id>/our-website</id>
+      <content type="html" xml:base="/our-website">&lt;h1 id=&quot;starting-the-site&quot;&gt;Starting the site&lt;/h1&gt;
 
 &lt;p&gt;I have had some prior knowledge before making this about very basic HTML and CSS that I did in school. However most of this had been forgotten and I pretty much made it up as I went along. The new website is more like the second generation of a website that I started making about this time last year. It started as the website below and I completely changed it.&lt;/p&gt;
 
@@ -114,11 +114,11 @@ At first, I went for the “hacker” theme because I thought it was cool. In th
   
     <entry>
       <title type="html">Moto G7 Power</title>
-      <link href="http://localhost:4000/moto-g7-power" rel="alternate" type="text/html" title="Moto G7 Power" />
+      <link href="/moto-g7-power" rel="alternate" type="text/html" title="Moto G7 Power" />
       <published>2020-04-19T11:18:00+01:00</published>
       <updated>2020-04-19T11:18:00+01:00</updated>
-      <id>http://localhost:4000/moto-g7-power</id>
-      <content type="html" xml:base="http://localhost:4000/moto-g7-power">&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
+      <id>/moto-g7-power</id>
+      <content type="html" xml:base="/moto-g7-power">&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
 
 &lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
 
@@ -210,11 +210,11 @@ At first, I went for the “hacker” theme because I thought it was cool. In th
   
     <entry>
       <title type="html">Henry’s Laptop</title>
-      <link href="http://localhost:4000/lenovo-laptop" rel="alternate" type="text/html" title="Henry's Laptop" />
+      <link href="/lenovo-laptop" rel="alternate" type="text/html" title="Henry's Laptop" />
       <published>2020-04-18T14:18:00+01:00</published>
       <updated>2020-04-18T14:18:00+01:00</updated>
-      <id>http://localhost:4000/lenovo-laptop</id>
-      <content type="html" xml:base="http://localhost:4000/lenovo-laptop">&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+      <id>/lenovo-laptop</id>
+      <content type="html" xml:base="/lenovo-laptop">&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
 
 &lt;p&gt;This was my first laptop. I got it for my 14th birthday after getting a load of money. I got it from Curry’s PC world for £550, £50 off because of a deal involving Ryzen based computers.&lt;/p&gt;
 
@@ -309,11 +309,11 @@ The problems I had with it at first were annoying, but I could have always gone 
   
     <entry>
       <title type="html">First post</title>
-      <link href="http://localhost:4000/test" rel="alternate" type="text/html" title="First post" />
+      <link href="/test" rel="alternate" type="text/html" title="First post" />
       <published>2020-04-18T11:18:00+01:00</published>
       <updated>2020-04-18T11:18:00+01:00</updated>
-      <id>http://localhost:4000/test</id>
-      <content type="html" xml:base="http://localhost:4000/test">&lt;p&gt;I have just moved to a new epic jekyll theme!!&lt;/p&gt;</content>
+      <id>/test</id>
+      <content type="html" xml:base="/test">&lt;p&gt;I have just moved to a new epic jekyll theme!!&lt;/p&gt;</content>
 
       
       

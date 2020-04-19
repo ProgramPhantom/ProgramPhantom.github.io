@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/tag/review/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-04-19T15:41:45+01:00</updated>
-  <id>http://localhost:4000/tag/review/feed.xml</id>
+  <link href="/tag/review/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/" rel="alternate" type="text/html" />
+  <updated>2020-04-19T16:02:00+01:00</updated>
+  <id>/tag/review/feed.xml</id>
 
   
   
@@ -37,11 +37,11 @@
   
     <entry>
       <title type="html">Moto G7 Power</title>
-      <link href="http://localhost:4000/moto-g7-power" rel="alternate" type="text/html" title="Moto G7 Power" />
+      <link href="/moto-g7-power" rel="alternate" type="text/html" title="Moto G7 Power" />
       <published>2020-04-19T11:18:00+01:00</published>
       <updated>2020-04-19T11:18:00+01:00</updated>
-      <id>http://localhost:4000/moto-g7-power</id>
-      <content type="html" xml:base="http://localhost:4000/moto-g7-power">&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
+      <id>/moto-g7-power</id>
+      <content type="html" xml:base="/moto-g7-power">&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
 
 &lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
 
@@ -133,11 +133,11 @@
   
     <entry>
       <title type="html">Henry’s Laptop</title>
-      <link href="http://localhost:4000/lenovo-laptop" rel="alternate" type="text/html" title="Henry's Laptop" />
+      <link href="/lenovo-laptop" rel="alternate" type="text/html" title="Henry's Laptop" />
       <published>2020-04-18T14:18:00+01:00</published>
       <updated>2020-04-18T14:18:00+01:00</updated>
-      <id>http://localhost:4000/lenovo-laptop</id>
-      <content type="html" xml:base="http://localhost:4000/lenovo-laptop">&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+      <id>/lenovo-laptop</id>
+      <content type="html" xml:base="/lenovo-laptop">&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
 
 &lt;p&gt;This was my first laptop. I got it for my 14th birthday after getting a load of money. I got it from Curry’s PC world for £550, £50 off because of a deal involving Ryzen based computers.&lt;/p&gt;
 
@@ -232,11 +232,11 @@ The problems I had with it at first were annoying, but I could have always gone 
   
     <entry>
       <title type="html">Gabriel’s Macbook Air</title>
-      <link href="http://localhost:4000/macbook-air" rel="alternate" type="text/html" title="Gabriel's Macbook Air" />
+      <link href="/macbook-air" rel="alternate" type="text/html" title="Gabriel's Macbook Air" />
       <published>2020-04-18T13:18:00+01:00</published>
       <updated>2020-04-18T13:18:00+01:00</updated>
-      <id>http://localhost:4000/macbook-air</id>
-      <content type="html" xml:base="http://localhost:4000/macbook-air">&lt;h1 id=&quot;why-mac&quot;&gt;Why mac?&lt;/h1&gt;
+      <id>/macbook-air</id>
+      <content type="html" xml:base="/macbook-air">&lt;h1 id=&quot;why-mac&quot;&gt;Why mac?&lt;/h1&gt;
 
 &lt;p&gt;For people who know more about computers and hardware than the average person, Apple products are usually not a popular choice. They are seen as expensive and low value. So why did I choose to get a MacBook air? Ecosystem: At the time I had an iphone and used my iPad on a daily basis and having a MacBook would connect all these devices and make everything much easier. Both my parents also had MacBooks so it be easier there as well. MacOS: I personally find MacOS much more appealing than windows and felt that the extra money spent would be towards getting it. When you buy a Mac you do pay extra but you pay that money so that apple doesn’t have to put ads and other ways of making money in the OS. I also had quite a bad experience with Windows 7 that made we lean towards MacOS. Quality guarantee: Since both my parents had MacBooks I knew exactly what I was getting. No need to go through endless reviews on the laptop. You save yourself a lot of time! All of these things led me to buying a MacBook. Now I have an Android phone, which you can see here, and I rarely use my iPad anymore. I’m also completely fine with windows 10 (and 7 for that matter) but I still do prefer MacOS. If I were to buy a laptop now I would probably go with a windows one as it would save me some money. If Linux was more widely used and supported, and I could save some money on my laptop, I would use that!&lt;/p&gt;
 
