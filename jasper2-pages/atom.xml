@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>Tech Oasis</description>
     <link>
-    </link>
+    http://localhost:4000</link>
     
       
       <item>
@@ -16,8 +16,8 @@
         
         <pubDate>Sun, 19 Apr 2020 13:18:00 +0100</pubDate>
         <link>
-        /our-website</link>
-        <guid isPermaLink="true">/our-website</guid>
+        http://localhost:4000/our-website</link>
+        <guid isPermaLink="true">http://localhost:4000/our-website</guid>
       </item>
       
     
@@ -31,8 +31,8 @@
         
         <pubDate>Sun, 19 Apr 2020 12:18:00 +0100</pubDate>
         <link>
-        /the-free-server</link>
-        <guid isPermaLink="true">/the-free-server</guid>
+        http://localhost:4000/the-free-server</link>
+        <guid isPermaLink="true">http://localhost:4000/the-free-server</guid>
       </item>
       
     
@@ -46,8 +46,8 @@
         
         <pubDate>Sun, 19 Apr 2020 11:18:00 +0100</pubDate>
         <link>
-        /moto-g7-power</link>
-        <guid isPermaLink="true">/moto-g7-power</guid>
+        http://localhost:4000/moto-g7-power</link>
+        <guid isPermaLink="true">http://localhost:4000/moto-g7-power</guid>
       </item>
       
     
@@ -61,8 +61,8 @@
         
         <pubDate>Sat, 18 Apr 2020 14:18:00 +0100</pubDate>
         <link>
-        /lenovo-laptop</link>
-        <guid isPermaLink="true">/lenovo-laptop</guid>
+        http://localhost:4000/lenovo-laptop</link>
+        <guid isPermaLink="true">http://localhost:4000/lenovo-laptop</guid>
       </item>
       
     
@@ -76,8 +76,8 @@
         
         <pubDate>Sat, 18 Apr 2020 13:18:00 +0100</pubDate>
         <link>
-        /macbook-air</link>
-        <guid isPermaLink="true">/macbook-air</guid>
+        http://localhost:4000/macbook-air</link>
+        <guid isPermaLink="true">http://localhost:4000/macbook-air</guid>
       </item>
       
     
@@ -90,8 +90,8 @@
         
         <pubDate>Sat, 18 Apr 2020 11:18:00 +0100</pubDate>
         <link>
-        /test</link>
-        <guid isPermaLink="true">/test</guid>
+        http://localhost:4000/test</link>
+        <guid isPermaLink="true">http://localhost:4000/test</guid>
       </item>
       
     
