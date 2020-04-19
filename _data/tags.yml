@@ -26,3 +26,7 @@ review:
   name: review
   description: Our tech reviews
   cover: False
+cool-stuff:
+  name: cool-stuff
+  description: Cool tech stuff we want to share with the world
+  cover: False

@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-19T14:44:19+01:00</updated><id>http://localhost:4000/</id><title type="html">Tech Oasis</title><subtitle>The Tech Guys</subtitle><entry><title type="html">Moto G7 Power</title><link href="http://localhost:4000/moto-g7-power" rel="alternate" type="text/html" title="Moto G7 Power" /><published>2020-04-19T11:18:00+01:00</published><updated>2020-04-19T11:18:00+01:00</updated><id>http://localhost:4000/moto-g7-power</id><content type="html" xml:base="http://localhost:4000/moto-g7-power">&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-04-19T15:12:11+01:00</updated><id>http://localhost:4000/</id><title type="html">Tech Oasis</title><subtitle>The Tech Guys</subtitle><entry><title type="html">The old Tech Oasis website</title><link href="http://localhost:4000/our-website" rel="alternate" type="text/html" title="The old Tech Oasis website" /><published>2020-04-19T13:18:00+01:00</published><updated>2020-04-19T13:18:00+01:00</updated><id>http://localhost:4000/our-website</id><content type="html" xml:base="http://localhost:4000/our-website">&lt;h1 id=&quot;starting-the-site&quot;&gt;Starting the site&lt;/h1&gt;
+
+&lt;p&gt;I have had some prior knowledge before making this about very basic HTML and CSS that I did in school. However most of this had been forgotten and I pretty much made it up as I went along. The new website is more like the second generation of a website that I started making about this time last year. It started as the website below and I completely changed it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\old-site.jpg&quot; alt=&quot;Old Site&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h2&gt;
+
+&lt;p&gt;To make the Tech Oasis website I used a very useful framework that my Dad came across a few years ago. Its called GitHub Pages and makes it much easier for anyone wanting to make a website – if its first time or your 1000th time. I set up my GitHub pages repository that came with lots of infrastructure already installed. Also I added this thing called a Jekyll theme.&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll-theme&quot;&gt;Jekyll Theme&lt;/h2&gt;
+
+&lt;p&gt;Jekyll is a brilliant way to easily make awesome looking websites and to quickly have different pages for, say a blog, added to the site. There are lots of templates to choose from so you can pick what suits you best.&lt;/p&gt;
+
+&lt;h2 id=&quot;local-server&quot;&gt;Local Server&lt;/h2&gt;
+&lt;p&gt;Another thing I did to help me develop was to make a local server to host my website. This meant that I could quickly build it and see the changes without having to push to the repository and wait for the website to build.&lt;/p&gt;
+
+&lt;h1 id=&quot;developing&quot;&gt;Developing&lt;/h1&gt;
+
+&lt;p&gt;And with that, I was almost ready to start making the new website. I downloaded GitHub desktop and opened my project in VS Code.
+At first, I went for the “hacker” theme because I thought it was cool. In the end however, I would go on to completely remove all the hacker-type style from the page. Cleverly, I did not check to see if there was a blank template before taking my time removing everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\hacker.jpg&quot; alt=&quot;Hacker Theme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I pretty much copied my entire old website into the HTML and CSS files and made it work from there. I then went on to change it to what you see now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\new-site.jpg&quot; alt=&quot;New Site&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;navigation-bar-change&quot;&gt;Navigation bar change&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest changes I made to the old site was a revamp of the navigation bar. I changed it to a nice dropdown with different sections and it also resizes depending on the window width. At first I followed a tutorial on W3Schools on how to make the dropdown but soon realised it would only work for a single button without getting to annoying levels of complexity. So I found a different way of doing it using entries in a list.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\nav.jpg&quot; alt=&quot;Nav bar&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;markdown&quot;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;An upside to using Jekyll was it brought Markdown to my attention. Using markdown, noobs like Gabriel could easily make posts without having to touch HTML. It also showed that you can make template files that you put some markdown into, going and nicely formatting it to your specifications.&lt;/p&gt;
+
+&lt;p&gt;I bought the domain techoasis.org.uk from Yay.com for £6. Then, I proceeded to pointing it to my site, that was being hosted (for free!) by GitHub pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\yay.jpg&quot; alt=&quot;Yay&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading guys and stay tuned for more updates on the website!&lt;/p&gt;
+
+&lt;p&gt;~ Henry, co-founder of Tech Oasis&lt;/p&gt;</content><author><name>Henry Varley</name></author><category term="cool-stuff" /><summary type="html">Starting the site</summary></entry><entry><title type="html">The Tech Oasis Server</title><link href="http://localhost:4000/the-free-server" rel="alternate" type="text/html" title="The Tech Oasis Server" /><published>2020-04-19T12:18:00+01:00</published><updated>2020-04-19T12:18:00+01:00</updated><id>http://localhost:4000/the-free-server</id><content type="html" xml:base="http://localhost:4000/the-free-server">&lt;h2 id=&quot;origins&quot;&gt;Origins&lt;/h2&gt;
+
+&lt;p&gt;We had always played with the idea of having some sort of shared computer that we could do simple things with, such as hosting a website or a Minecraft server. We also wanted to build a PC together as we hadn’t done that before. However, we didn’t want to spend a whole bunch of money on a PC that didn’t even need to be of the highest specs.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-search-for-parts&quot;&gt;The search for parts&lt;/h2&gt;
+
+&lt;p&gt;During the Easter holidays, Henry and I had been doing some programming and software but we wanted to do something hardware wise. Henry then had the idea to go down to our local computer repair shop and ask if they had any old computer hardware that we could buy cheaply or get for free. We went there hoping for an old crappy motherboard or a HDD and did not expect a whole PC. When we arrived, we opened the door and saw two young men sitting behind the counter. Henry said, “We were wondering if you had any spare computer parts that we could get or buy?”. Then one of the men turned to the other and said “Should we show them?”.&lt;/p&gt;
+
+&lt;p&gt;They then told us that they had a bunch of stuff they didn’t need downstairs and were planning on throwing away that summer. They told us we could take whatever we wanted for our project. We were then shown down to the basement and we were greeted with a whole room full of computer parts. You could say it was a Tech Oasis ;). We then proceeded to take a big Cooler Master case with some crappy hardware inside and we put in two monitors and a couple of keyboards. One of the men told us he had found a half decent motherboard with a CPU, GPU and some RAM already inside. We took those and brought them upstairs. They said they would test the power supply that was in the case and it was working fine. We thanked them several times, extremely chuffed with our find, and carried a heavy case full of things all the way back to Henry’s house.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-assembly&quot;&gt;The assembly&lt;/h2&gt;
+
+&lt;p&gt;As soon as we got back we rushed up to Henry’s room and started unpacking. Everything was filthy and we spent a good hour or so cleaning everything up. When we finally had everything well cleaned, we started building our new PC. It took us an hour or so because we kept finding things to clean and polish! When everything was in the case we connected one of the monitors we had collected and pressed the power button. It miraculously posted first try without any issues. We then download Linux Mint onto a USB stick from Henry’s laptop and installed it on our new computer. We created a user-account and download some basic applications. It was getting late so we called it a day and I headed home. If you want to see a tour of the PC and it’s specs, click &lt;a href=&quot;https://www.youtube.com/watch?v=rHfQGhAlGq4&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-the-server&quot;&gt;Setting up the server&lt;/h2&gt;
+
+&lt;p&gt;The following week we messed about with the PC. It ran pretty smoothly on Linux and no issues had occurred yet. We knew that we wanted it to be a server but we hadn’t decided on what to do with it yet. Eventually we were torn between a website and a Minecraft server for all our friends to play on. We hadn’t really started making a website and we weren’t sure if we wanted to pay for a domain name. Because of this we decided to host a Minecraft server on the PC. We then searched up on how to do it on Linux Mint and set up and account dedicated to the server. We then used Henry’s broadband IP and hosted our first Minecraft server. The PC managed to support around 5 people at a time and ran smoothly with minimal issues.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-issues&quot;&gt;The issues&lt;/h2&gt;
+
+&lt;p&gt;The server had been running smoothly for a couple of weeks but unfortunately some issues started to arise. The CPU that came with the motherboard had minimal thermal paste on and we were worried that we would start running into thermal issues. Henry managed to get his hands on some thermal paste and we applied some to the CPU. Unfortunately we forgot to clean it properly with alcohol and some of the old thermal paste was still on the chip. This resulted in the thermal paste not working properly and thermal issues started to begin. The CPU was running at 75 degrees centigrade when idle!  We had caused the thing that we had tried to avoid in the first place! We then cleaned it properly with ethanol and reapplied thermal paste. The thermal issue then disappeared.&lt;/p&gt;
+
+&lt;p&gt;Another two weeks went by with no problems until the power supply fan started making weird squeaking noises and seemed to not be running properly. We shut the PC down and took a look at it. We got some lubricant and applied it to the fan. The fan stopped squeaking and no other issues seemed to come with it. The fan ran quietly for another week until it started making noises again. This time we didn’t want to continue applying lube and risk a bigger problem being created, so we took a power supply from one of Henry’s dad’s old builds and put it in the server. The power supply worked brilliantly and no further issues popped up.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-it-is-now&quot;&gt;Where it is now&lt;/h2&gt;
+
+&lt;p&gt;The PC is still working beautifully and is still hosting a Minecraft server that is used almost daily by friends and us. It is also taking part in the LTT folding project and is doing a decent job. That is going to be its use for now as we have other ways of hosting this website. We hope that you found this project interesting and that you are inspired to do something similar. Don’t be shy! Go to your local computer repair shop and ask for some parts! If you want to read further about how our relationship with the store continued click &lt;strong&gt;here&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+
+&lt;p&gt;~ Tech Oasis&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Go check out our video review of this phone on the &lt;a href=&quot;https://www.youtube.com/watch?v=rHfQGhAlGq4&quot;&gt;Tech Oasis youtube channel&lt;/a&gt;&lt;/p&gt;</content><author><name>Gabriel Nilsson</name></author><category term="our-tech" /><category term="cool-stuff" /><summary type="html">Origins</summary></entry><entry><title type="html">Moto G7 Power</title><link href="http://localhost:4000/moto-g7-power" rel="alternate" type="text/html" title="Moto G7 Power" /><published>2020-04-19T11:18:00+01:00</published><updated>2020-04-19T11:18:00+01:00</updated><id>http://localhost:4000/moto-g7-power</id><content type="html" xml:base="http://localhost:4000/moto-g7-power">&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
 
 &lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
 
