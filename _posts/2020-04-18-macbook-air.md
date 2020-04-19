@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/macbook_air/macbook4.jpg
+cover: assets/images/macbook_air/macbook4.JPG
 navigation: True
 title: Gabriel's Macbook Air
 date: 2020-04-18 12:18:00
