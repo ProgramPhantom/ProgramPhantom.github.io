@@ -17,7 +17,7 @@ logo_dark: assets/images/logo.png
 favicon: assets/images/logo.png
 production_url: https://ProgramPhantom.github.io
 source_url: https://github.com/jekyller/jasper2/
-CNAME: #add cname for website to be created
+CNAME: techoasis.org.uk #add cname for website to be created
 
 # Social info
 navigation: True # show the navbar links

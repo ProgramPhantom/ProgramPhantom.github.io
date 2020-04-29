@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/macbook_air/macbook4.JPG
+cover: assets/images/macbook_air/macbook4.jpg
 navigation: True
 title: Gabriel's Macbook Air
 date: 2020-04-18 12:18:00
@@ -17,7 +17,7 @@ author: gabriel
 
 For people who know more about computers and hardware than the average person, Apple products are usually not a popular choice. They are seen as expensive and low value. So why did I choose to get a MacBook air? Ecosystem: At the time I had an iphone and used my iPad on a daily basis and having a MacBook would connect all these devices and make everything much easier. Both my parents also had MacBooks so it be easier there as well. MacOS: I personally find MacOS much more appealing than windows and felt that the extra money spent would be towards getting it. When you buy a Mac you do pay extra but you pay that money so that apple doesn't have to put ads and other ways of making money in the OS. I also had quite a bad experience with Windows 7 that made we lean towards MacOS. Quality guarantee: Since both my parents had MacBooks I knew exactly what I was getting. No need to go through endless reviews on the laptop. You save yourself a lot of time! All of these things led me to buying a MacBook. Now I have an Android phone, which you can see here, and I rarely use my iPad anymore. I'm also completely fine with windows 10 (and 7 for that matter) but I still do prefer MacOS. If I were to buy a laptop now I would probably go with a windows one as it would save me some money. If Linux was more widely used and supported, and I could save some money on my laptop, I would use that!
 
-![The Mac](assets/images/macbook_air/macbook6.JPG#full)
+![The Mac](assets/images/macbook_air/macbook6.jpg#full)
 
 
 # Review
@@ -81,7 +81,7 @@ It has 128GB of PCIe-based SSD. It's not a very impressive amount of storage con
 
 My model has a dual Core i5 5350U 1.8GHz that can turbo boost up to 2.9GHz. It's pretty decent and runs all your basic tasks smoothly. It has 8GB of 1600MHz LPDDR3 which is enough but don't expect to do intensive full HD editing. It has Intel HD graphics 6000 which is fine and can do some casual gaming such as League of Legends and Minecraft. You won't be running any shadow of the tomb raider here! 
 
-![Pic of Mac](assets/images/macbook_air/macbook7.JPG)
+![Pic of Mac](assets/images/macbook_air/macbook7.jpg)
 
 # Summary
 
