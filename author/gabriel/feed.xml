@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/author/gabriel/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-06-13T10:40:31+01:00</updated>
+  <id>http://localhost:4000/author/gabriel/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Tech Oasis | </title>
+  
+
+  
+    <subtitle>Tech Oasis</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Gabriel’s Gaming Rig</title>
+      <link href="http://localhost:4000/gabriels-PC" rel="alternate" type="text/html" title="Gabriel's Gaming Rig" />
+      <published>2020-04-29T11:00:00+01:00</published>
+      <updated>2020-04-29T11:00:00+01:00</updated>
+      <id>http://localhost:4000/gabriels-PC</id>
+      <content type="html" xml:base="http://localhost:4000/gabriels-PC">&lt;p&gt;This is my gaming rig which I have been using for a couple of months. It has been serving me well, pumping out 240fps, on the games I am currently playing.&lt;/p&gt;
+
+&lt;h1 id=&quot;gabriels-gaming-rig&quot;&gt;Gabriel’s Gaming Rig&lt;/h1&gt;
+
+&lt;p&gt;I started designing my pc months before I had anywhere near the money that I needed to build it. I was always using pcpartpicker and constantly changing things. My base build was a Ryzen 7 2700X with a GTX 1660 which wasn’t a very smart choice for a gaming build as I wouldn’t be able to utilise all 8 cores. It was especially bad when the price of the Ryzen 5 2600 was so much cheaper while sacrificing very little single-thread performance. Another problem was that I spent too much on the CPU in a gaming build as opposed to the GPU. I am aware that the Ryzen 5 3600 does also seem a bit overkill however the value was/is too good to ignore and was/is still cheaper than the Ryzen 7 2700X.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/gabriels-PC/benchmark.png&quot; alt=&quot;cpu benchmarks&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;specs&quot;&gt;Specs&lt;/h2&gt;
+
+&lt;p&gt;CPU: Ryzen 5 3600&lt;br /&gt;
+GPU: Vega 56 – Gigabyte OC&lt;br /&gt;
+RAM: Corsair vengeance 16gb 3200 MHz&lt;br /&gt;
+Motherboard: B450 Aorus elite&lt;br /&gt;
+SSD: Sabrent Rocket NVMe PCIe M.2 2280 512gb&lt;br /&gt;
+PSU: EVGA 600W 80+&lt;br /&gt;
+Case: AeroCool Cylon Mid-Tower RGB&lt;/p&gt;
+
+&lt;h2 id=&quot;ryzen-5-3600&quot;&gt;Ryzen 5 3600&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/gabriels-PC/ryzen_3600.jpg&quot; alt=&quot;3600&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Ryzen 3600 is an amazing CPU for the price having 6 cores and 12 threads with a base clock of 3.6GHz and a turbo boost of up to 4.2GHz. Is has 32mb of cache which is great for gaming. I chose the Ryzen 5 3600 because it’s immense value is almost incomparable with any CPU in the same price range. Its single-threaded performance is very good making it great for me as I am primarily using it for gaming. However, it is still a Hexa-core processor meaning it is still strong in other areas such as editing, which I also do on occasion. So far it has served me well. however, I have had a few minor setbacks with it. The processor I received does not reach the advertised turbo boost maxing out at 4.08GHz. When overclocking to over 4.1GHz I get stuck in a boot loop. I have tried some fixes such as flashing the motherboard bios. Unfortunately, I have gotten little success. One thing I am yet to try is reinstalling the chipset drivers. If that works I will update this post. Minus the issues my overall experience has been good and would recommend it to anyone building a midrange custom PC.&lt;/p&gt;
+
+&lt;h2 id=&quot;vega-56&quot;&gt;Vega 56&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/gabriels-PC/vega_56.jpg&quot; alt=&quot;vega 56&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Vega 56 is a great card for being released in 2017. I bought a refurbished Gigabyte OC version which comes with 3 display ports and 3 HDMI ports. It is manually overclocked to 1501MHz clock speed and 800Mhz memory clock. It comes with 8GB of VRAM which is more than enough for any modern title. Paired with my CPU it pumps out 240fps in games such as Overwatch, Fortnite, Apex Legends and Destiny 2 in 1080p. Although this means I have to play at low settings to achieve this I value hitting 240fps and getting full value out of my 240hz monitor over the game looking better. However, this does not mean that it is not capable of running 60fps on max settings if you prefer that. The card does get quite hot and draws a lot of power getting up to 75°C+ when overclocking. The power consumption can be an issue as spikes in power can cause the pc to crash. To avoid this make sure you use two separate 8 pin connectors to power the GPU. This will require at least a semi-modular power supply. The card can also get quite loud when running full wack so if you do not want a loud card either make sure you have some seriously good airflow or refrain from buying this card. Other than the crashes my experience with the Vega 56 has been very positive especially with it being a 2017 card. I would no longer recommend this card as the 5600XT is a similar price if not cheaper and will offer more value. It is also quieter, cooler with less power consumption making the Vega 56 redundant (which it should).&lt;/p&gt;
+
+&lt;h2 id=&quot;corsair-vengeance-16gb-3200mhz&quot;&gt;Corsair vengeance 16gb 3200MHz&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\gabriels-PC\corsair_vengeance.jpg&quot; alt=&quot;corsair ram&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I was designing my rig I knew that 16gb of RAM was the amount I needed. As they say, 8 is good but 16 is ideal. I also knew that Ryzen CPUs benefited from higher memory speeds. This is why I chose 3200MHz as it is generally accepted as the “sweet spot” when it comes to price to performance. Looking back I probably have gone for 3000MHz if it had been £10 cheaper as RAM is so easy to overclock. I got 2 sticks of 8 (of course) for that extra dual-channel performance so I can get a few extra frames. When I bought them RAM prices were extremely low – and still are – which was great and I was very pleased with it. Overall experience has been great with 0 issues as of so far including my overclocking. I am currently running them at 3600MHz which is always a nice extra. I would highly recommend this RAM to anyone doing a mid-range to low high-end build.&lt;/p&gt;
+
+&lt;h2 id=&quot;b450-aorus-elite&quot;&gt;B450 Aorus elite&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/gabriels-PC/aorus_elite.jpg&quot; alt=&quot;b450 mdb&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When it came to a motherboard I did not want to spend a large of sum money but I did want it to be fairly upgrade friendly. Luckily for me, I had chosen a AMD CPU meaning that I would not need to spend as much on a board. I decided upon a B450 as I knew that an X570 or X470 would be more expensive and I was not planning on doing a huge amount of overclocking or extreme overclocking. When it came to board features I knew that I wanted; 4 RAM slots, 2 NVME m.2 slots, and some decent IO. Taking all the factors stated above into account a settled on the B450 Aorus elite. It comes with all the things that I wanted including some RGB which we all know drastically increases gaming performance. It was originally £20 more than I was willing to spend but ended up being on a discount which meant that I bought it. The motherboard is very good and fitted my needs perfectly. It was very nice that the IO shield was pre-installed as saved some hassle. It had a generous amount of USB ports which is great for me as I end up using many of them. The audio jacks were a bit overkill for me, that being an understatement, but it was a bonus. Would recommend this to anyone that wants a board that can have an upgrade or two but does not break the bank.&lt;/p&gt;
+
+&lt;h2 id=&quot;sabrent-rocket-nvme-pcie-m2-2280-512gb&quot;&gt;Sabrent Rocket NVMe PCIe M.2 2280 512gb&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/gabriels-PC/sabrent_rocket.jpg&quot; alt=&quot;sabrent rocket&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When I was choosing and SSD I wanted something fast and was willing to compromise some storage for a faster one. I originally was going to get a Western Digital blue 500gb as it was decently fast and still an NVMe drive. I ordered it and just before it arrived Henry found a much faster SSD for the same price with brilliant reviews on Amazon. It was the Sabrent rocket NVMe SSD. I ended up cancelling my order and buying the rocket instead. I am very pleased that I made this decision as my games load incredibly fast and the very small amount of extra storage is a small freebie. I also can’t let henry have a better one than me. Extremely pleased with this SSD as it hits all the advertised speeds if not higher and I have had zero issues. I would highly recommend it to anyone that has an m.2 slot which supports an NVMe drive. If you would like to our full review on the Sabrent rocket click &lt;a href=&quot;https://www.youtube.com/watch?v=pklRklhbCjo&amp;amp;t=100s&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;evga-600w-80&quot;&gt;EVGA 600W 80+&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/gabriels-PC/EVGA_PSU.jpg&quot; alt=&quot;PSU EVGA&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I knew that I needed a power supply that was at least 550w as the Vega 56 has a high power consumption. I did not want to spend too much on a power supply, as I did not mind having a non-modular power supply, although now that I can not use 2 separate 8 pins I have some regrets. I also wanted to buy from a reliable manufacturer to make sure I still had my parts in 3 months. I ended up going for an EVGA 600w for all the reasons stated above. It is rated 80+ bronze which is always nice. Unfortunately it ended up failing halfway through gaming sessions and eventually did not start at all. luckily Amazon has amazing customer service and I was able to receive a full refund. I bought a 550W Corsair which is now in the build at my mums house. I now have a 650W Corsair in this build. A good PSU for a good price, I was just unlucky.&lt;/p&gt;
+
+&lt;h2 id=&quot;aerocool-cylon-mid-tower-rgb&quot;&gt;AeroCool Cylon Mid-Tower RGB&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/gabriels-PC/aerocool_cylon.jpg&quot; alt=&quot;case Aerocool cylon&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For my case, I decided to go cheap. I did not mind cable managing in a rough environment if it meant It gave me more budget towards other parts of the build. The only thing that was a must-have was a power supply shroud that I could shove all my spare cables into. So I decided to choose the AeroCool Cylon. The case is good for the price but the airflow is pretty bad. It has a tempered glass panel which was something that I wanted so I could see into my pc and see the RGB. The case also has an/ RGB strip that is changed by a button on the front but is not very customisable. It has one USB 3.0 and 2 USB 2.0 ports. It also has a micro SD reader which could possibly be useful. It is a pretty decent case that I would recommend if you are okay with bad airflow and difficult cable management.&lt;/p&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Overall I am very happy with my build and had a lot of fun building it. I think that mostly made the correct decisions and think that it turned out great. Gaming has never been more fun and it is nice to be part of the PC master race.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Gabriel Nilsson</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="our-tech" />
+      
+        <category term="review" />
+      
+
+      
+        <summary type="html">This is my gaming rig which I have been using for a couple of months. It has been serving me well, pumping out 240fps, on the games I am currently playing.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Tech Oasis Server</title>
+      <link href="http://localhost:4000/the-free-server" rel="alternate" type="text/html" title="The Tech Oasis Server" />
+      <published>2020-04-19T12:18:00+01:00</published>
+      <updated>2020-04-19T12:18:00+01:00</updated>
+      <id>http://localhost:4000/the-free-server</id>
+      <content type="html" xml:base="http://localhost:4000/the-free-server">&lt;h2 id=&quot;origins&quot;&gt;Origins&lt;/h2&gt;
+
+&lt;p&gt;We had always played with the idea of having some sort of shared computer that we could do simple things with, such as hosting a website or a Minecraft server. We also wanted to build a PC together as we hadn’t done that before. However, we didn’t want to spend a whole bunch of money on a PC that didn’t even need to be of the highest specs.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-search-for-parts&quot;&gt;The search for parts&lt;/h2&gt;
+
+&lt;p&gt;During the Easter holidays, Henry and I had been doing some programming and software but we wanted to do something hardware wise. Henry then had the idea to go down to our local computer repair shop and ask if they had any old computer hardware that we could buy cheaply or get for free. We went there hoping for an old crappy motherboard or a HDD and did not expect a whole PC. When we arrived, we opened the door and saw two young men sitting behind the counter. Henry said, “We were wondering if you had any spare computer parts that we could get or buy?”. Then one of the men turned to the other and said “Should we show them?”.&lt;/p&gt;
+
+&lt;p&gt;They then told us that they had a bunch of stuff they didn’t need downstairs and were planning on throwing away that summer. They told us we could take whatever we wanted for our project. We were then shown down to the basement and we were greeted with a whole room full of computer parts. You could say it was a Tech Oasis ;). We then proceeded to take a big Cooler Master case with some crappy hardware inside and we put in two monitors and a couple of keyboards. One of the men told us he had found a half decent motherboard with a CPU, GPU and some RAM already inside. We took those and brought them upstairs. They said they would test the power supply that was in the case and it was working fine. We thanked them several times, extremely chuffed with our find, and carried a heavy case full of things all the way back to Henry’s house.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-assembly&quot;&gt;The assembly&lt;/h2&gt;
+
+&lt;p&gt;As soon as we got back we rushed up to Henry’s room and started unpacking. Everything was filthy and we spent a good hour or so cleaning everything up. When we finally had everything well cleaned, we started building our new PC. It took us an hour or so because we kept finding things to clean and polish! When everything was in the case we connected one of the monitors we had collected and pressed the power button. It miraculously posted first try without any issues. We then download Linux Mint onto a USB stick from Henry’s laptop and installed it on our new computer. We created a user-account and download some basic applications. It was getting late so we called it a day and I headed home. If you want to see a tour of the PC and it’s specs, click &lt;a href=&quot;https://www.youtube.com/watch?v=rHfQGhAlGq4&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;setting-up-the-server&quot;&gt;Setting up the server&lt;/h2&gt;
+
+&lt;p&gt;The following week we messed about with the PC. It ran pretty smoothly on Linux and no issues had occurred yet. We knew that we wanted it to be a server but we hadn’t decided on what to do with it yet. Eventually we were torn between a website and a Minecraft server for all our friends to play on. We hadn’t really started making a website and we weren’t sure if we wanted to pay for a domain name. Because of this we decided to host a Minecraft server on the PC. We then searched up on how to do it on Linux Mint and set up and account dedicated to the server. We then used Henry’s broadband IP and hosted our first Minecraft server. The PC managed to support around 5 people at a time and ran smoothly with minimal issues.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-issues&quot;&gt;The issues&lt;/h2&gt;
+
+&lt;p&gt;The server had been running smoothly for a couple of weeks but unfortunately some issues started to arise. The CPU that came with the motherboard had minimal thermal paste on and we were worried that we would start running into thermal issues. Henry managed to get his hands on some thermal paste and we applied some to the CPU. Unfortunately we forgot to clean it properly with alcohol and some of the old thermal paste was still on the chip. This resulted in the thermal paste not working properly and thermal issues started to begin. The CPU was running at 75 degrees centigrade when idle!  We had caused the thing that we had tried to avoid in the first place! We then cleaned it properly with ethanol and reapplied thermal paste. The thermal issue then disappeared.&lt;/p&gt;
+
+&lt;p&gt;Another two weeks went by with no problems until the power supply fan started making weird squeaking noises and seemed to not be running properly. We shut the PC down and took a look at it. We got some lubricant and applied it to the fan. The fan stopped squeaking and no other issues seemed to come with it. The fan ran quietly for another week until it started making noises again. This time we didn’t want to continue applying lube and risk a bigger problem being created, so we took a power supply from one of Henry’s dad’s old builds and put it in the server. The power supply worked brilliantly and no further issues popped up.&lt;/p&gt;
+
+&lt;h2 id=&quot;where-it-is-now&quot;&gt;Where it is now&lt;/h2&gt;
+
+&lt;p&gt;The PC is still working beautifully and is still hosting a Minecraft server that is used almost daily by friends and us. It is also taking part in the LTT folding project and is doing a decent job. That is going to be its use for now as we have other ways of hosting this website. We hope that you found this project interesting and that you are inspired to do something similar. Don’t be shy! Go to your local computer repair shop and ask for some parts! If you want to read further about how our relationship with the store continued click &lt;strong&gt;here&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+
+&lt;p&gt;~ Tech Oasis&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Go check out our video review of this phone on the &lt;a href=&quot;https://www.youtube.com/watch?v=rHfQGhAlGq4&quot;&gt;Tech Oasis youtube channel&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Gabriel Nilsson</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="our-tech" />
+      
+        <category term="cool-stuff" />
+      
+
+      
+        <summary type="html">Origins</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Gabriel’s Macbook Air</title>
+      <link href="http://localhost:4000/macbook-air" rel="alternate" type="text/html" title="Gabriel's Macbook Air" />
+      <published>2020-04-18T13:18:00+01:00</published>
+      <updated>2020-04-18T13:18:00+01:00</updated>
+      <id>http://localhost:4000/macbook-air</id>
+      <content type="html" xml:base="http://localhost:4000/macbook-air">&lt;h1 id=&quot;why-mac&quot;&gt;Why mac?&lt;/h1&gt;
+
+&lt;p&gt;For people who know more about computers and hardware than the average person, Apple products are usually not a popular choice. They are seen as expensive and low value. So why did I choose to get a MacBook air? Ecosystem: At the time I had an iphone and used my iPad on a daily basis and having a MacBook would connect all these devices and make everything much easier. Both my parents also had MacBooks so it be easier there as well. MacOS: I personally find MacOS much more appealing than windows and felt that the extra money spent would be towards getting it. When you buy a Mac you do pay extra but you pay that money so that apple doesn’t have to put ads and other ways of making money in the OS. I also had quite a bad experience with Windows 7 that made we lean towards MacOS. Quality guarantee: Since both my parents had MacBooks I knew exactly what I was getting. No need to go through endless reviews on the laptop. You save yourself a lot of time! All of these things led me to buying a MacBook. Now I have an Android phone, which you can see here, and I rarely use my iPad anymore. I’m also completely fine with windows 10 (and 7 for that matter) but I still do prefer MacOS. If I were to buy a laptop now I would probably go with a windows one as it would save me some money. If Linux was more widely used and supported, and I could save some money on my laptop, I would use that!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/macbook_air/macbook6.jpg#full&quot; alt=&quot;The Mac&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;/h2&gt;
+
+&lt;p&gt;As expected from a MacBook the build is very sturdy but at the same time very light. It feels very sturdy despite it’s sleekness and is easy to hold. It is an older model so the bezels are quite big and don’t look to good, especially when compared to more modern laptops. The hinge is very smooth so the laptop can be opened with one finger. The classic apple design is very aesthetically pleasing to look at and looks good in most setups.&lt;/p&gt;
+
+&lt;h2 id=&quot;speakers&quot;&gt;Speakers&lt;/h2&gt;
+
+&lt;p&gt;The speakers are okay, nothing fantastic but will do for most basic uses. They are located along the left and right side of the keyboard so don’t worry about them being blocked easily.&lt;/p&gt;
+
+&lt;h2 id=&quot;trackpad&quot;&gt;Trackpad&lt;/h2&gt;
+
+&lt;p&gt;Again as expected from a MacBook, the trackpad is excellent! It is very responsive and the gestures save you a lot of time when using the laptop. It’s very nice not needing to plug in a mouse because the trackpad is barely usable.&lt;/p&gt;
+
+&lt;h2 id=&quot;keyboard&quot;&gt;Keyboard&lt;/h2&gt;
+
+&lt;p&gt;The keyboard is very responsive, and since it is an older model they are not butterfly keys which I am personally not a big fan of. The backlighting fits with Macs design and is enough to help you see the keys in the dark but not blind you. Some of the keys can be quite small and close and make it harder when trying to touch type.&lt;/p&gt;
+
+&lt;h2 id=&quot;display&quot;&gt;Display&lt;/h2&gt;
+
+&lt;p&gt;The resolution is not full HD being 1440x900. This is obviously a bit disappointing as you would always hope to get at least 1080p. It’s still nice and clear however and for everything the average user does it is great. It has a TN panel, meaning it has not got the best viewing angles but it’s still pretty good. The display is 13 inches which I find is a good size for everything I want to do. It is 60hz and it gets quite bright but can be difficult in strong sunlight.&lt;/p&gt;
+
+&lt;h2 id=&quot;io&quot;&gt;IO&lt;/h2&gt;
+
+&lt;p&gt;Being and older laptop it does not have the most up to date IO. It has 2 USB 3.0 ports (one on each side) which is enough especially since the trackpad is good so a mouse is not needed. It unfortunately has no USB type C ports. It also has a thunderbolt 2 port if you want to connect a monitor to it. It has a MagSafe 2 power port, which is a very nice quality of life feature. Finally it has a SDXC card slot which can also be useful.&lt;/p&gt;
+
+&lt;h2 id=&quot;battery&quot;&gt;Battery&lt;/h2&gt;
+
+&lt;p&gt;The battery life on this laptop is really where is shines. It has a 54 watt battery which isn’t the biggest battery in the word. However since the display isn’t the newest the display does not drain the battery meaning that it has a battery life of around 6-8 hours which is pretty incredible. This is perfect for people who travel or commute a lot and need to get things done.&lt;/p&gt;
+
+&lt;h2 id=&quot;fans&quot;&gt;Fans&lt;/h2&gt;
+
+&lt;p&gt;The fans are located at the back near the hinge and do a decent job cooling your computer when doing simple tasks. When you do some more intensive stuff however, that’s when things get loud. The noise is beatable for a bit but they really are loud and can be annoying as anything slightly intensive gets them going full wack.&lt;/p&gt;
+
+&lt;h2 id=&quot;storage&quot;&gt;Storage&lt;/h2&gt;
+
+&lt;p&gt;It has 128GB of PCIe-based SSD. It’s not a very impressive amount of storage considering it’s a laptop but it can do for some people. It’s pretty fast since it’s an SSD which is always nice. If you want more then you’ll have to select the 256GB model when purchasing.&lt;/p&gt;
+
+&lt;h1 id=&quot;main-components&quot;&gt;Main components&lt;/h1&gt;
+
+&lt;p&gt;My model has a dual Core i5 5350U 1.8GHz that can turbo boost up to 2.9GHz. It’s pretty decent and runs all your basic tasks smoothly. It has 8GB of 1600MHz LPDDR3 which is enough but don’t expect to do intensive full HD editing. It has Intel HD graphics 6000 which is fine and can do some casual gaming such as League of Legends and Minecraft. You won’t be running any shadow of the tomb raider here! &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/macbook_air/macbook7.jpg&quot; alt=&quot;Pic of Mac&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;summary&quot;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;Overall the model is pretty good. However it’s pretty old so you aren’t getting a lot of the newer tech and it’s still pretty expensive. I would recommend this laptop to anyone who is looking for a Mac but maybe not if they were just looking for a laptop. &lt;/p&gt;
+
+&lt;p&gt;6.5/10&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Gabriel Nilsson</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="our-tech" />
+      
+        <category term="review" />
+      
+
+      
+        <summary type="html">Why mac?</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

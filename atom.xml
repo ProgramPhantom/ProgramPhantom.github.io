@@ -1,28 +1,129 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.name | xml_escape }} - Articles</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+    <title> - Articles</title>
+    <description>Tech Oasis</description>
     <link>
-    {{ site.url }}</link>
-    {% for post in site.posts %}
-      {% unless post.link %}
+    http://localhost:4000</link>
+    
+      
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        {% if post.excerpt %}
-          <description>{{ post.excerpt | xml_escape }}</description>
-        {% else %}
-          <description>{{ post.content | xml_escape }}</description>
-        {% endif %}
-        <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+        <title>Gabriel's Gaming Rig</title>
+        
+          <description>&lt;p&gt;This is my gaming rig which I have been using for a couple of months. It has been serving me well, pumping out 240fps, on the games I am currently playing.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 29 Apr 2020 11:00:00 +0100</pubDate>
         <link>
-        {{ site.url }}{{ post.url }}</link>
-        <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
+        http://localhost:4000/gabriels-PC</link>
+        <guid isPermaLink="true">http://localhost:4000/gabriels-PC</guid>
       </item>
-      {% endunless %}
-    {% endfor %}
+      
+    
+      
+      <item>
+        <title>RX 5600 XT Review</title>
+        
+          <description>&lt;p&gt;This is AMD’s answer to the mid range graphics card market. Can the RX 5600 XT compete with Nvidia’s 1660 Super and 1660 Ti?&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Wed, 29 Apr 2020 11:00:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/5600xt</link>
+        <guid isPermaLink="true">http://localhost:4000/5600xt</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The old Tech Oasis website</title>
+        
+          <description>&lt;h1 id=&quot;starting-the-site&quot;&gt;Starting the site&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sun, 19 Apr 2020 13:18:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/our-website</link>
+        <guid isPermaLink="true">http://localhost:4000/our-website</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>The Tech Oasis Server</title>
+        
+          <description>&lt;h2 id=&quot;origins&quot;&gt;Origins&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Sun, 19 Apr 2020 12:18:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/the-free-server</link>
+        <guid isPermaLink="true">http://localhost:4000/the-free-server</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Moto G7 Power</title>
+        
+          <description>&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 19 Apr 2020 11:18:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/moto-g7-power</link>
+        <guid isPermaLink="true">http://localhost:4000/moto-g7-power</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Henry's Laptop</title>
+        
+          <description>&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sat, 18 Apr 2020 14:18:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/lenovo-laptop</link>
+        <guid isPermaLink="true">http://localhost:4000/lenovo-laptop</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Gabriel's Macbook Air</title>
+        
+          <description>&lt;h1 id=&quot;why-mac&quot;&gt;Why mac?&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sat, 18 Apr 2020 13:18:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/macbook-air</link>
+        <guid isPermaLink="true">http://localhost:4000/macbook-air</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>First post</title>
+        
+          <description>&lt;p&gt;I have just moved to a new epic jekyll theme!! Test&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 18 Apr 2020 11:18:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/test</link>
+        <guid isPermaLink="true">http://localhost:4000/test</guid>
+      </item>
+      
+    
   </channel>
 </rss>

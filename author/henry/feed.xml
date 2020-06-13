@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/author/henry/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2020-06-13T10:40:31+01:00</updated>
+  <id>http://localhost:4000/author/henry/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Tech Oasis | </title>
+  
+
+  
+    <subtitle>Tech Oasis</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">RX 5600 XT Review</title>
+      <link href="http://localhost:4000/5600xt" rel="alternate" type="text/html" title="RX 5600 XT Review" />
+      <published>2020-04-29T11:00:00+01:00</published>
+      <updated>2020-04-29T11:00:00+01:00</updated>
+      <id>http://localhost:4000/5600xt</id>
+      <content type="html" xml:base="http://localhost:4000/5600xt">&lt;p&gt;This is AMD’s answer to the mid range graphics card market. Can the RX 5600 XT compete with Nvidia’s 1660 Super and 1660 Ti?&lt;/p&gt;
+
+&lt;h1 id=&quot;amd-radeon-5600-xt&quot;&gt;AMD Radeon 5600 XT&lt;/h1&gt;
+&lt;p&gt;Coming out on the 21st Jan 2020, the Radeon 5600 series was AMD’s answer to Nvidia’s domination in the £200 to £280 graphics card market.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/5600xt/5600sapphire.jpg&quot; alt=&quot;Radeon RX 5600XT&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;pricing&quot;&gt;Pricing&lt;/h2&gt;
+
+&lt;p&gt;The 5600 XT at first confused enthusiasts as they thought it was supposed to compete with the £250 Nvidia GeForce 1660 Ti. However AMD opted to price it around £30 more, coming in on average at £280. 
+In response to this Nvidia dropped the price of their RTX 2060 down to £300, in the form of the EVGA “KO” variant. However, the AMD card still trades blows with Nvidia’s more expensive card.&lt;/p&gt;
+
+&lt;h2 id=&quot;performance&quot;&gt;Performance&lt;/h2&gt;
+
+&lt;p&gt;The 5600 XT is a brilliant performer. This card could possibly become the king of 1440p gaming. Once thought to be competing with the 1660 Ti, this card blows it out of the water at most titles (admittedly being £30 more expensive). Even the RTX 2060 KO, Nvidia’s response to the card, does not appear to have the upper hand.&lt;/p&gt;
+
+&lt;h3 id=&quot;specs&quot;&gt;Specs&lt;/h3&gt;
+&lt;p&gt;This card is built on AMD’s new RDNA architecture, which is using a 7nm fabrication process. This means better thermals and more efficient power consumption compared to past architectures. 
+Other specs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;36 CU (compute units)&lt;/li&gt;
+  &lt;li&gt;Clock Speed: 1375MHz base&lt;/li&gt;
+  &lt;li&gt;“Game” clock speed: 1750MHz (this is the speed the GPU can consistently reach while playing games)&lt;/li&gt;
+  &lt;li&gt;Comes with 6Gb (a break from the very RAM heavy Polaris cards) of new GDDR6 memory with 192-bit memory bus.&lt;/li&gt;
+  &lt;li&gt;Typical power usage is 150-160 watts. AMD recommends at least a 450w PSU&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These parts come together to make a brilliant card for the price. Beating the 2060 in most games, all while consuming less power. This card can both game in the 1440p res and 1080p, but you are pushing it when moving up to 4k. You’ll probably have to turn the settings down a lot. 144hz gaming is also aced by this card, comfortably reaching  144 fps at high settings in games like Apex Legends, Call of Duty, Fortnite, Overwatch, GTA, etc. (when paired with R5 3600). See full list of game FPS according to gpucheck &lt;a href=&quot;https://www.gpucheck.com/gpu/amd-radeon-rx-5600-xt/amd-ryzen-5-3600/high#mainads&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;launch-mess&quot;&gt;Launch Mess&lt;/h2&gt;
+&lt;p&gt;The launch of this card was a bit of a mess. AMD last second released a new VBIOS update which considerably increased performance by upping clock speeds. This meant that not all the cards which were sold did not receive this boost in performance so owners at home had to update it manually, or risk losing performance for their money. 
+AMD did this as a response to Nvidia’s 2060 KO, just to make sure it was rendered completely redundant.&lt;/p&gt;
+
+&lt;h2 id=&quot;drivers&quot;&gt;Drivers.&lt;/h2&gt;
+&lt;p&gt;Well, the 2060 KO was not completely beat because of AMD’s drivers, letting them down, &lt;strong&gt;again&lt;/strong&gt;. This card is definitely not void of some stability problems. I have experienced multiple crashes and strange behaviour, even after Radeon 20.02.2 driver up date supposedly fixed these issues. Still to this day AMD still has a huge driver quality problem that is becoming more and more painful.  And still Nvidia offer quality, stable drivers. This is a big selling point of the KO over the 5600.&lt;/p&gt;
+
+&lt;h2 id=&quot;overall&quot;&gt;Overall&lt;/h2&gt;
+
+&lt;p&gt;This is a brilliant card from AMD, coming in and really shaking up the market. It’s price point means it slips inbetween Nvidia’s 1660 Ti and 2060 KO, beating both of them. If you ignore the stability issues, there is no real competition when it comes to performance to the price in this bracket.&lt;/p&gt;
+
+&lt;p&gt;9 / 10&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Henry Varley</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="our-tech" />
+      
+        <category term="review" />
+      
+
+      
+        <summary type="html">This is AMD’s answer to the mid range graphics card market. Can the RX 5600 XT compete with Nvidia’s 1660 Super and 1660 Ti?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The old Tech Oasis website</title>
+      <link href="http://localhost:4000/our-website" rel="alternate" type="text/html" title="The old Tech Oasis website" />
+      <published>2020-04-19T13:18:00+01:00</published>
+      <updated>2020-04-19T13:18:00+01:00</updated>
+      <id>http://localhost:4000/our-website</id>
+      <content type="html" xml:base="http://localhost:4000/our-website">&lt;h1 id=&quot;starting-the-site&quot;&gt;Starting the site&lt;/h1&gt;
+
+&lt;p&gt;I have had some prior knowledge before making this about very basic HTML and CSS that I did in school. However most of this had been forgotten and I pretty much made it up as I went along. The new website is more like the second generation of a website that I started making about this time last year. It started as the website below and I completely changed it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\old-site.jpg&quot; alt=&quot;Old Site&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;github-pages&quot;&gt;GitHub Pages&lt;/h2&gt;
+
+&lt;p&gt;To make the Tech Oasis website I used a very useful framework that my Dad came across a few years ago. Its called GitHub Pages and makes it much easier for anyone wanting to make a website – if its first time or your 1000th time. I set up my GitHub pages repository that came with lots of infrastructure already installed. Also I added this thing called a Jekyll theme.&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll-theme&quot;&gt;Jekyll Theme&lt;/h2&gt;
+
+&lt;p&gt;Jekyll is a brilliant way to easily make awesome looking websites and to quickly have different pages for, say a blog, added to the site. There are lots of templates to choose from so you can pick what suits you best.&lt;/p&gt;
+
+&lt;h2 id=&quot;local-server&quot;&gt;Local Server&lt;/h2&gt;
+&lt;p&gt;Another thing I did to help me develop was to make a local server to host my website. This meant that I could quickly build it and see the changes without having to push to the repository and wait for the website to build.&lt;/p&gt;
+
+&lt;h1 id=&quot;developing&quot;&gt;Developing&lt;/h1&gt;
+
+&lt;p&gt;And with that, I was almost ready to start making the new website. I downloaded GitHub desktop and opened my project in VS Code.
+At first, I went for the “hacker” theme because I thought it was cool. In the end however, I would go on to completely remove all the hacker-type style from the page. Cleverly, I did not check to see if there was a blank template before taking my time removing everything.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\hacker.jpg&quot; alt=&quot;Hacker Theme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I pretty much copied my entire old website into the HTML and CSS files and made it work from there. I then went on to change it to what you see now.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\new-site.jpg&quot; alt=&quot;New Site&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;navigation-bar-change&quot;&gt;Navigation bar change&lt;/h2&gt;
+
+&lt;p&gt;One of the biggest changes I made to the old site was a revamp of the navigation bar. I changed it to a nice dropdown with different sections and it also resizes depending on the window width. At first I followed a tutorial on W3Schools on how to make the dropdown but soon realised it would only work for a single button without getting to annoying levels of complexity. So I found a different way of doing it using entries in a list.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\nav.jpg&quot; alt=&quot;Nav bar&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;markdown&quot;&gt;Markdown&lt;/h2&gt;
+&lt;p&gt;An upside to using Jekyll was it brought Markdown to my attention. Using markdown, noobs like Gabriel could easily make posts without having to touch HTML. It also showed that you can make template files that you put some markdown into, going and nicely formatting it to your specifications.&lt;/p&gt;
+
+&lt;p&gt;I bought the domain techoasis.org.uk from Yay.com for £6. Then, I proceeded to pointing it to my site, that was being hosted (for free!) by GitHub pages.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets\images\website\yay.jpg&quot; alt=&quot;Yay&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading guys and stay tuned for more updates on the website!&lt;/p&gt;
+
+&lt;p&gt;~ Henry, co-founder of Tech Oasis&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Henry Varley</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="cool-stuff" />
+      
+
+      
+        <summary type="html">Starting the site</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Moto G7 Power</title>
+      <link href="http://localhost:4000/moto-g7-power" rel="alternate" type="text/html" title="Moto G7 Power" />
+      <published>2020-04-19T11:18:00+01:00</published>
+      <updated>2020-04-19T11:18:00+01:00</updated>
+      <id>http://localhost:4000/moto-g7-power</id>
+      <content type="html" xml:base="http://localhost:4000/moto-g7-power">&lt;p&gt;When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.&lt;/p&gt;
+
+&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;/h2&gt;
+
+&lt;p&gt;The build feels nice, with polymer glass on the back. It has some weight to it and feels like a quality device. Unfortunately, there is no form of water resistance.&lt;/p&gt;
+
+&lt;p&gt;The power and volume buttons are in acceptable positions, along the right side of the phone. The volume rocker could be a bit lower down though for people with smaller hands.&lt;/p&gt;
+
+&lt;h3 id=&quot;options&quot;&gt;Options&lt;/h3&gt;
+
+&lt;p&gt;You can get this phone in 3 colours; Black, Blue and a very snazzy Violet colour.&lt;/p&gt;
+
+&lt;h3 id=&quot;finger-print-sensor&quot;&gt;Finger print sensor&lt;/h3&gt;
+
+&lt;p&gt;The Moto G7 Power has a great little finger print sensor that is lightning fast and only takes a couple of hours to get used to.&lt;/p&gt;
+
+&lt;h2 id=&quot;battery&quot;&gt;Battery&lt;/h2&gt;
+
+&lt;p&gt;The stand out feature of this phone is the huge 5000 mAh battery. I’ve been using this phone for a couple of months now and the phone can comfortably last me 3 days under moderate usage. So, if you’re someone who forgets to charge, or if you have a weekend away, this phone is for you. When it does finally run out however, you can charge it up very quickly with Motorola’s TurboPower charging technology. The phone has a USB-C port at the bottom. No wireless charging here.&lt;/p&gt;
+
+&lt;h2 id=&quot;display&quot;&gt;Display&lt;/h2&gt;
+
+&lt;p&gt;It has a 6.2” LCD Gorilla Glass display with a resolution of 1520 by 720. The screen is fine but not outstanding, especially when compared to a higher end OLED screen. It’s mostly bezelless having a thicker chin showing some Motorola branding at the bottom. Also don’t forget about the medium size notch at the top of the display. The screen gets quite bright but you might find it hard to see things in direct sunlight.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/motog7/phone4.jpg#full&quot; alt=&quot;The Phone is lit&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;camera&quot;&gt;Camera&lt;/h2&gt;
+
+&lt;p&gt;On the back of the phone you’ll find a single 12 MP camera that can shoot up to 4k video (30fps).  It’s decent but is definitely a point that could be improved. The camera on the front is 8 MP and is fine for video calls.&lt;/p&gt;
+
+&lt;h2 id=&quot;speaker&quot;&gt;Speaker&lt;/h2&gt;
+
+&lt;p&gt;The speaker is on the front next to the camera and will do for most uses but can be a bit tinny and could be higher quality. And of course, thank god, a 3.5mm headphone jack is still present on this phone.&lt;/p&gt;
+
+&lt;h2 id=&quot;software&quot;&gt;Software&lt;/h2&gt;
+
+&lt;p&gt;On the software side of things, the moto G7 Power comes with almost pure stock android 9 along with some features Motorola have thrown in there. For example, the very useful camera and torch gestures. Other things include the always on screen, great for quickly checking the time and notifications, without needing to find the power button. Also Motorola have added a surprisingly good facial recognition feature that sometimes works too well. I turned it off because I want to look at notifications without unlocking my phone every time I pick it up.&lt;/p&gt;
+
+&lt;h2 id=&quot;inside&quot;&gt;Inside&lt;/h2&gt;
+
+&lt;p&gt;The model here has 4 GB of memory, giving the user a smooth multi-tasking experience. 64 GB of storage is a generous amount and if you find yourself running out, you can always expand with up to a 512 GB micro SD card.&lt;/p&gt;
+
+&lt;p&gt;As for speed, there’s absolutely no problem. It has an octa core Qualcomm® Snapdragon™ 632 that runs at 1.8 gHz. This makes for a nice snappy experience that can run pretty much any app smoothly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/motog7/phone2.jpg&quot; alt=&quot;The Phone is lit&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;extras&quot;&gt;Extras!&lt;/h2&gt;
+
+&lt;p&gt;A sweet surprise for a budget phone is the included transparent case it comes with. It can do an okay job protecting your phone but doesn’t look too good and can become grimy easily. I would still consider getting a better case if you drop your phone a lot. Very nice gesture from Motorola. Further reasons to get a case is that this phone is a HUGE fingerprint magnet.&lt;/p&gt;
+
+&lt;h1 id=&quot;summary&quot;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;Overall this is another outstanding budget phone from Motorola’s G line up. And, with a £180 price tag, this could possibly be the king of sub £200 phones.  We are excited to see if Motorola can continue delivering such value phones generation after generation.&lt;/p&gt;
+
+&lt;p&gt;9 / 10&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Go check out our video review of this phone on the &lt;a href=&quot;https://www.youtube.com/channel/UCmbieU3y9vDvt7F0nrZxGWQ&quot;&gt;Tech Oasis youtube channel&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Henry Varley</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="our-tech" />
+      
+        <category term="review" />
+      
+
+      
+        <summary type="html">When it comes to cheap, low end phones, Motorola get it right time and time again. Hey guys its tech oasis and this is the Moto G7 Power.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Henry’s Laptop</title>
+      <link href="http://localhost:4000/lenovo-laptop" rel="alternate" type="text/html" title="Henry's Laptop" />
+      <published>2020-04-18T14:18:00+01:00</published>
+      <updated>2020-04-18T14:18:00+01:00</updated>
+      <id>http://localhost:4000/lenovo-laptop</id>
+      <content type="html" xml:base="http://localhost:4000/lenovo-laptop">&lt;h1 id=&quot;review&quot;&gt;Review&lt;/h1&gt;
+
+&lt;p&gt;This was my first laptop. I got it for my 14th birthday after getting a load of money. I got it from Curry’s PC world for £550, £50 off because of a deal involving Ryzen based computers.&lt;/p&gt;
+
+&lt;p&gt;Before that I had been scouring the internet for countless hours to find my perfect laptop. I had a little over £500 to spend, a good amount for a longlasting, reliable laptop. At first I tried my luck at an incredible deal - an Acer Nitro laptop (I forgot the exact one) for around £200 under usual price, bringing it to £500. It was from a 3rd party vendor and we were half expecting something to be dodgy about it…  And that was exactly what we got. A painful week after ordering, I got an email from Amazon saying the seller no longer “had” the laptop and it was not coming. A full refund was given.&lt;/p&gt;
+
+&lt;p&gt;After that whole thing, we decided to get a laptop from a respectable seller. My Dad and I found the Lenovo IdeaPad series and thought it looked good. Initially we were going for the 15” 530S and sent an order to pick it up in the shop. However, just after we sent the order, to my dismay and Dad’s annoyance, I noticed that the 15” had a miserable battery life of 3 hours. The 14” model however had a considerably better 6 hours of power. So, when we got to the shop I asked if there was any chance we could have it swapped for the 14 inch model. Luckily, they had a single model stocked in the shop and they let us swap it out. It was £50 more however, money that I didn’t have at the time. I told my Dad I would  pay it back to him later.&lt;/p&gt;
+
+&lt;p&gt;I walked out of PC world holding my laptop and protecting it with my life. This was the most expensive thing I had ever bought, by &lt;strong&gt;a lot&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;teething-problems&quot;&gt;Teething problems&lt;/h1&gt;
+
+&lt;p&gt;I was super happy with my Lenovo IdeaPad 530S 14” and loved how thin it was. I didn’t even realise when looking online! Thickness wasn’t really a priority for me but I was surprised with how much I liked it, especially as it competed with the thickness of &lt;a href=&quot;macbook-air.html&quot;&gt;Gabriel’s MacBook Air&lt;/a&gt;. However, there were some very bad early problems with the laptop. On one of the first time I was using it, as I watched a YouTube video, I got a dreaded blue screen of death. The error code was: VIDEO SCHEDULER INTERNAL ERROR. It seemed to be something to do with the graphics drivers - happening almost exclusively when watching videos. I tried updating the drivers and my dad got in conversation with Microsoft. Our efforts to fix the problem were fruitless, and, we were on the brink of sending it back to Curry’s saying it was faulty. This was about the time were the problems started to mysteriously fade away. At the time of writing, I hadn’t experienced a critical error for many months.&lt;/p&gt;
+
+&lt;p&gt;A second annoying problem that was more infuriating than the last was the complete stoppage of all sound coming out off the speakers. This was an very annoying issue that I spent ages trying to fix. Again there seemed to be an issue with the Realtek drivers after there was an update. My Dad and I had no idea how to fix this and everything we tried did nothing. Unfortunately we had to resort to the ultimate failsafe to fix the problem, a full Windows restart. ):&lt;/p&gt;
+
+&lt;p&gt;Thankfully I have a tech savvy house to fix these issues however a regular person would probably have to send it back if they experienced these problems. Of course, these problems won’t effect every one of these laptops and it’s just a one off.&lt;/p&gt;
+
+&lt;h1 id=&quot;overall-experience&quot;&gt;Overall Experience&lt;/h1&gt;
+
+&lt;h2 id=&quot;build&quot;&gt;Build&lt;/h2&gt;
+&lt;p&gt;This a brilliant laptop from Lenovo. The build quality is utterly amazing for the price with a fully aluminium body apart from some plastic bordering the screen. The hinge is sturdy and goes back to a 180 degree angle. Bezels are on the minimum, around a centimetre with a thicker chin on the bottom for some Lenovo branding. Like I said, this laptop is super thin, under 1.65cm when closed. That’s just 1mm thicker than the latest MacBook Air (at its thickest point).&lt;/p&gt;
+
+&lt;h2 id=&quot;speakers&quot;&gt;Speakers&lt;/h2&gt;
+&lt;p&gt;The speakers are not special, two on the bottom at the sides. They can get a bit muffled if covered by some kind of fabric, not good if you’re using it to watch Netflix on your bed.&lt;/p&gt;
+
+&lt;h2 id=&quot;trackpad&quot;&gt;Trackpad&lt;/h2&gt;
+&lt;p&gt;The trackpad is great on this laptop. Really easy to use, nice size and feel, made of glass. It handles gestures very well, running its Windows Precision drivers.&lt;/p&gt;
+
+&lt;h2 id=&quot;keyboard&quot;&gt;Keyboard&lt;/h2&gt;
+&lt;p&gt;The keyboard might be an issue for some. It is mushy with very low clickyness with each keystroke. It could definitely be improved. The layout is fine but I wish the # key was not put so close to the enter key as it sometimes leads to me accidentally pressing it. Also I think they could of made the up and down arrow keys bigger and gotten rid of some of the size off the right shift, I literally never use right shift anyway. Don’t forget that this keyboard also comes with two levels of brightness for its back lighting, just click Fn+Space to cycle between them. There are also some shortcut keys incorporated into the function keys, these include brightness, sound and aeroplane mode.&lt;/p&gt;
+
+&lt;h2 id=&quot;display&quot;&gt;Display&lt;/h2&gt;
+
+&lt;p&gt;The display has its pros and cons. Pros are that it’s a nice full HD display. Also an absolute win for this laptop is that the display is IPS. This makes the colours look soooo much better than a TN panel and is an absolute must for any laptop. Of course the display runs at 60Hz and don’t expect to be getting professional gamer grade response times from it either. One problem I find with the display is it doesn’t go very bright. This has been a problem for me when I have wanted do do coding outside or near a window.&lt;/p&gt;
+
+&lt;h2 id=&quot;io&quot;&gt;IO&lt;/h2&gt;
+
+&lt;p&gt;Thankfully this laptop has a healthy selection of good IO. On the left side there is the power adaptor, full size HDMI, a USB A port, USB C port (not Thunderbolt 3) and finally a headphone jack. As for the right side, there is another USB type A and a full size SD card reader.&lt;/p&gt;
+
+&lt;h2 id=&quot;battery&quot;&gt;Battery&lt;/h2&gt;
+
+&lt;p&gt;Know how I said I swapped the laptop out for this one to get better battery life? Well, this laptop has about the same as it said the other model had, which is, not a lot. You can not get much life out of this laptop at all and it will only last you about 3 - 4 hours use. ):&lt;/p&gt;
+
+&lt;h2 id=&quot;fans&quot;&gt;Fans&lt;/h2&gt;
+
+&lt;p&gt;There is a single fan on the left side of the device sucking air in from the bottom. It gets moderately loud under heavy load and should be is easily bearable for short amounts of time.&lt;/p&gt;
+
+&lt;h1 id=&quot;on-the-inside&quot;&gt;On the inside&lt;/h1&gt;
+
+&lt;p&gt;The specs are great on this device. I got it with a Ryzen 2500U with Vega 8 Mobile graphics. Paired with that, 8 GB of 2400mHz RAM and a snappy 256 GB M.2 SSD. These components overall lead a very fast computer for normal use. It breezes through multi-tasking easily with its 8-threaded CPU.&lt;/p&gt;
+
+&lt;p&gt;Also, thanks to the Vega 8 graphics, you will be able to do some casual gaming, running League of Legends at nice frame rates and can run Fortnite if you crank down the settings.&lt;/p&gt;
+
+&lt;p&gt;Finally don’t expect to be doing any super intensive stuff like editing large videos or rendering on this laptop.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/lenovolaptop/hinge.jpg#full&quot; alt=&quot;It's thin&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;summary&quot;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;Overall this laptop has served me very well and has not shown signs of slowing. It aces everything a casual user might need and has the speed to match. I think this Laptop would be perfect for anyone who needs a general purpose portable computer - without breaking the bank.
+The problems I had with it at first were annoying, but I could have always gone and swapped it for another one that didn’t have the faults.&lt;/p&gt;
+
+&lt;p&gt;8 / 10&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Henry Varley</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="our-tech" />
+      
+        <category term="review" />
+      
+
+      
+        <summary type="html">Review</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">First post</title>
+      <link href="http://localhost:4000/test" rel="alternate" type="text/html" title="First post" />
+      <published>2020-04-18T11:18:00+01:00</published>
+      <updated>2020-04-18T11:18:00+01:00</updated>
+      <id>http://localhost:4000/test</id>
+      <content type="html" xml:base="http://localhost:4000/test">&lt;p&gt;I have just moved to a new epic jekyll theme!! Test&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Henry Varley</name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html">I have just moved to a new epic jekyll theme!! Test</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
